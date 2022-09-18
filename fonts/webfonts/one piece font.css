@@ -1,0 +1,8 @@
+@font-face
+{
+    font-family: 'one piece font';
+  src: url('one piece font.eot');
+      url('one piece font.eot?#') format('embedded-opentype'),
+      url('one piece font.woff') format('woff'),
+      url('one piece font.ttf') format('truetype');
+}

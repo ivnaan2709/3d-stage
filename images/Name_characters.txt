@@ -1,0 +1,49 @@
+Straw Hat
+Monkey D. Luffy
+Bounty:
+3,000,000,000
+
+Pirate Hunter 
+Roronoa Zoro
+Bounty:
+1,111,000,000
+
+Cat Burglar 
+Nami
+Bounty:
+366,000,000
+
+God 
+Usopp
+Bounty:
+500,000,000
+
+Black Leg 
+Vinsmoke Sanji
+Bounty:
+1,032,000,000
+
+Cotton Candy Lover 
+Tony Tony Chopper
+Bounty:
+1,000
+
+Devil Child 
+Nico Robin
+Bounty:
+930,000,000
+
+Iron Man 
+Franky
+Bounty:
+394,000,000
+
+Soul King 
+Brook
+Bounty:
+383,000,000
+
+Knight of the Sea 
+Jinbe
+Bounty:
+1,100,000,000
